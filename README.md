@@ -1,1 +1,2 @@
 # google-homepage
+This is my first actual project on Odin. The goal is to replicate the image of the present Google homepage. What I want to try to do is when you click on the google image it will take you to the google homepage. or when you click on the bars such as image etc. it will take you to that website. I am going to embed the links into the text and image and keep them as live links. I will refer to this document back when I finish the project. 
