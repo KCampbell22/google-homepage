@@ -1,0 +1,146 @@
+ul {
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+  li {
+      float: left;
+  }
+li a {
+    display: inline-block;
+    padding: 16px 18px;
+    color: black;
+    font-size: 15px;
+}
+.google-logo {
+position: fixed;
+top: 20%;
+bottom: 85%;
+right: 60%;
+left: 40%;
+}
+.search-bar {
+padding: 15px;
+width: 500px;
+position: fixed;
+top: 35%;
+right: 34%;
+border-radius: 24px;
+border-color: #bfc0c0;
+border-style: solid;
+Border-width: 1px;
+box-shadow: 0 0 0 0;
+}
+.search-bar:hover {
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    background-image: -webkit-linear-gradient(top,white,white);
+    background-color: white;
+    border: px solid #c6c6c6;
+    color: #222;
+    border-radius: 24px;
+}
+.search-buttons {
+position: fixed;
+top: 48%;
+left: 40%;
+padding: 16px;
+background-color: #f8f9fa;
+border-color:#f8f9fa;
+border-width: 1px;
+border-radius: 4px;
+border-style: solid;
+box-shadow: insert 0 0 0 0;
+}
+.search-buttons:hover {
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    background-image: -webkit-linear-gradient(top,#f8f8f8,#f1f1f1);
+    background-color: #f8f8f8;
+    border: 1px solid #c6c6c6;
+    color: #222;
+}
+.feeling-lucky {
+    position: fixed; 
+    top: 48%;
+    right: 40%;
+    padding: 16px;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+    border-width: 1px;
+    border-radius: 4px;
+    border-style: solid;
+    box-shadow: insert 0 0 0 0;
+}
+.feeling-lucky:hover {
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    background-image: -webkit-linear-gradient(top,#f8f8f8,#f1f1f1);
+    background-color: #f8f8f8;
+    border: 1px solid #c6c6c6;
+    color: #222;
+}
+.small-right {
+    position: fixed;
+    top: 36%;
+    left: 30%;
+    width: 25px;
+    border-radius: 50%;
+    
+}
+.voice-right {
+    position:fixed;
+    top: 36.5%;
+    right: 35%;
+    width: 20px;
+    border-radius: 50%; 
+}
+.gmail-right {
+    position: fixed;
+    right: 200px;
+    font-size: 15px;
+}
+.images-right {
+    position: fixed;
+    right: 130px;
+    top: 23px;
+    font-size: 15px;
+}
+.dashboard-right {
+    position: fixed;
+    top: 20px;
+    right: 80px;
+    width: 23px;
+}
+.profile-right {
+    position:fixed;
+    top: 15px;
+    right: 10px;
+    width: 45px;
+}
+.nav-bottom {
+    position:fixed;
+    background-color: #f3f3f3e8;
+    width: 100%;
+    bottom: 0;
+}
+.nav ul {
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+.nav li a {
+    display:inline-block;
+    color: black;
+    padding: 20px;
+    font-size: 15px;
+}
+.ad-one {
+    padding:15px;
+}
+.bus-two {
+    padding: 15px;
+}
+.h-sw {
+    padding: 15px;
+}
